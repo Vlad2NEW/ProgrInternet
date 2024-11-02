@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebCalendarSandboxContext_b56c6cef_fcb1_42dd_9f75_f5acab6dd4a4/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\models\\seeddatausers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\models\\seeddatausers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\models\\seeddata\u0441alendars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\models\\seeddata\u0441alendars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\models\\calendarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\models\\calendarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebCalendarSandboxContext_b56c6cef_fcb1_42dd_9f75_f5acab6dd4a4/True/SqlTable/dbo.CalendarSystem.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\controllers\\calendarsystemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\controllers\\calendarsystemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebCalendarSandbox\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|d:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F internet\\webcalendarsandbox\\webcalendarsandbox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B3AC024-BAA6-4DDC-9231-87522B29060A}|WebCalendarSandbox\\WebCalendarSandbox.csproj|solutionrelative:webcalendarsandbox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedDataUsers.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Models\\SeedDataUsers.cs",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\Models\\SeedDataUsers.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Models\\SeedDataUsers.cs",
+              "RelativeToolTip": "WebCalendarSandbox\\Models\\SeedDataUsers.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:57:48.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData\u0421alendars.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Models\\SeedData\u0421alendars.cs",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\Models\\SeedData\u0421alendars.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Models\\SeedData\u0421alendars.cs",
+              "RelativeToolTip": "WebCalendarSandbox\\Models\\SeedData\u0421alendars.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:56:54.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalendarSystem.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Models\\CalendarSystem.cs",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\Models\\CalendarSystem.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Models\\CalendarSystem.cs",
+              "RelativeToolTip": "WebCalendarSandbox\\Models\\CalendarSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:53:26.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebCalendarSandboxContext_b56c6cef_fcb1_42dd_9f75_f5acab6dd4a4/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-25T11:51:12.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Program.cs",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\Program.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Program.cs",
+              "RelativeToolTip": "WebCalendarSandbox\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:13:14.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.CalendarSystem [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WebCalendarSandboxContext_b56c6cef_fcb1_42dd_9f75_f5acab6dd4a4/True/SqlTable/dbo.CalendarSystem.sql",
+              "ToolTip": "dbo.CalendarSystem [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-25T11:47:54.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalendarSystemsController.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Controllers\\CalendarSystemsController.cs",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\Controllers\\CalendarSystemsController.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Controllers\\CalendarSystemsController.cs",
+              "RelativeToolTip": "WebCalendarSandbox\\Controllers\\CalendarSystemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:16:02.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebCalendarSandbox\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:39:50.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\UsersController.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\UsersController.cs",
+              "RelativeToolTip": "WebCalendarSandbox\\UsersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:27:44.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebCalendarSandbox\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:25:13.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\appsettings.json",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\appsettings.json",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\appsettings.json",
+              "RelativeToolTip": "WebCalendarSandbox\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T11:21:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebCalendarSandbox\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F Internet\\WebCalendarSandbox\\WebCalendarSandbox\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebCalendarSandbox\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T12:39:52.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
